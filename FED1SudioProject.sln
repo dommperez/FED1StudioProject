@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1585
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FED1SudioProject", "FED1SudioProject\FED1SudioProject.csproj", "{F93CD0E7-094A-4974-B683-75D0C120621D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F93CD0E7-094A-4974-B683-75D0C120621D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F93CD0E7-094A-4974-B683-75D0C120621D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F93CD0E7-094A-4974-B683-75D0C120621D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F93CD0E7-094A-4974-B683-75D0C120621D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D5ACD5C-C088-4E03-866D-06C77D647DE9}
+	EndGlobalSection
+EndGlobal
